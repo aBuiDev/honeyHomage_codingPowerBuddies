@@ -9,7 +9,7 @@
 ## Collaborators
 
 Vilisoni | [GitHub](https://github.com/Soni-247) | [Portfolio]()<br>
-Horacio | [GitHub](https://github.com/HORACINIS) | [Portfolio]()<br>
+Horacio Moran | [GitHub](https://github.com/HORACINIS) | [Portfolio](https://www.horacinis.com/)<br>
 Andrew Bui | [GitHub](https://github.com/aBuiDev) | [Portfolio](https://abuidev.netlify.app/)<br>
 
 ##
