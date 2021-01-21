@@ -20,6 +20,8 @@ Andrew Bui | [GitHub](https://github.com/aBuiDev) | [Portfolio](https://abuidev.
 
 ## Purpose
 
+![img](./assets/workBookCoverImage.jpg)
+
 In late 2019 and early 2020, Australia was ravaged by a horrifically devastating bushfire season that perished an estimated half-billion living creatures and caused toxic smoke clouds to cover populated cities. The heaviest hits were rural communities and farms, including one organic honey producer that lost over 500 beehives in one tragic day.
 
 Honey Homage, located in eastern NSW had lost almost everything, but through pure grit, patience, and sheer determination following the fierce bushfires; has now cultivated new hives and is now in a position to start selling their organic honey products again.
