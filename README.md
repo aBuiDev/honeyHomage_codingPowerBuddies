@@ -42,6 +42,8 @@ As a passionate team of three with a broad skill set that includes digital marke
 - Buyer Login System
 - Admin Login System
 - Add to Cart & Checkout System
+- Beautiful and Engaging Frontend
+- User Focused UX and UI
 
 **Digital Marketing:**
 
