@@ -12,4 +12,80 @@ Vilisoni | [GitHub](https://github.com/Soni-247) | [Portfolio]()<br>
 Horacio Moran | [GitHub](https://github.com/HORACINIS) | [Portfolio](https://www.horacinis.com/)<br>
 Andrew Bui | [GitHub](https://github.com/aBuiDev) | [Portfolio](https://abuidev.netlify.app/)<br>
 
-##
+#
+
+<br>
+<br>
+<br>
+
+## Purpose
+
+#
+
+<br>
+<br>
+<br>
+
+## Functionality / Features
+
+#
+
+<br>
+<br>
+<br>
+
+## Target Audience
+
+#
+
+<br>
+<br>
+<br>
+
+## Tech Stack
+
+#
+
+<br>
+<br>
+<br>
+
+## Dataflow Diagram
+
+#
+
+<br>
+<br>
+<br>
+
+## Application Architecture Diagram
+
+#
+
+<br>
+<br>
+<br>
+
+## User Stories
+
+#
+
+<br>
+<br>
+<br>
+
+## Wireframes
+
+#
+
+<br>
+<br>
+<br>
+
+## Trello
+
+#
+
+<br>
+<br>
+<br>
