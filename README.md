@@ -18,9 +18,17 @@ Andrew Bui | [GitHub](https://github.com/aBuiDev) | [Portfolio](https://abuidev.
 <br>
 <br>
 
-## Purpose
+## Deployment
 
-![img](./assets/workBookCoverImage.jpg)
+[Github](https://github.com/aBuiDev/honeyHomage_codingPowerBuddies)
+
+#
+
+<br>
+<br>
+<br>
+
+## Purpose
 
 In late 2019 and early 2020, Australia was ravaged by a horrifically devastating bushfire season that perished an estimated half-billion living creatures and caused toxic smoke clouds to cover populated cities. The heaviest hits were rural communities and farms, including one organic honey producer that lost over 500 beehives in one tragic day.
 
@@ -118,6 +126,20 @@ As a passionate team of three with a broad skill set that includes digital marke
 <br>
 
 ## Trello
+
+[Link to CodingPowerBuddies | Honey Homage Trello Board](https://trello.com/b/SNIFSg7r/honeyhomagecodingpowerbuddies)
+
+<br>
+
+- Project Part A and Part B Plan
+
+![img](./assets/trelloShotOne.jpg)
+
+<br>
+
+- Project Team Member Daily Planner
+
+![img](./assets/trelloShotTwo.jpg)
 
 #
 
