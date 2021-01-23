@@ -83,9 +83,9 @@ As a passionate team of three with a broad skill set that includes digital marke
 
 ## Tech Stack
 
-**Database**: MongoDB <br>
-**REPL & Server**: Node.js, Express.js, and Sequelize <br>
-**Frontend**: HTML, CSS, Sass, jQuery, Handlebars, and React.js <br>
+**Database**: MongoDB, Mongoose <br>
+**REPL & Server**: Node.js, Express.js <br>
+**Frontend**: HTML, CSS, and React.js <br>
 
 #
 
@@ -140,6 +140,12 @@ As a passionate team of three with a broad skill set that includes digital marke
 - Project Team Member Daily Planner
 
 ![img](./assets/trelloShotTwo.jpg)
+
+<br>
+
+- Team Update: Initialising Progress
+
+![img](./assets/trelloShotThree.jpg)
 
 #
 
