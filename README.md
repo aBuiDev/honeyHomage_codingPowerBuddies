@@ -119,6 +119,16 @@ As a passionate team of three with a broad skill set that includes digital marke
 
 ## Wireframes
 
+- Color Palette
+
+![img](./assets/colourPalette.jpg)
+
+<br>
+
+- Layout
+
+![img](./assets/honeyHomageWireframe.png)
+
 #
 
 <br>
